@@ -9,7 +9,7 @@
 
 ### 🚀 Proyek GitHub Unggulan
 
-- 🔢 [Kalkulator Web](https://github.com/Mulyana96/kalkulator-web) – Kalkulator berbasis PHP, JavaScript & Bootstrap dengan tampilan ala iPhone.
+- 🔢 [Kalkulator-Web](https://github.com/Mulyana96/kalkulator-web) – Kalkulator berbasis web dengan PHP, JavaScript & Bootstrap5.
 - 🎓 [Mahasiswa-app](https://github.com/Mulyana96/mahasiswa-app) – Aplikasi input data mahasiswa [CRUD] menggunakan PHP, Bootstrap5, dan database MySQL.
 - 🧮 [Karyawan-app](https://github.com/Mulyana96/karyawan-app) – Aplikasi input data karyawan [CRUD] menggunakan Python, Streamlit, dan database MySQL.
 
